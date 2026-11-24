@@ -59,6 +59,7 @@ namespace WPFAN_Access
 		private void miModify_Click(object sender, RoutedEventArgs e)
 		{
 			var res = dsStudents.dtAssignments.FindByStudent("John Doe");
+			if (res == null) return;
 			res.BeginEdit();
 			res.Grade = 2;
 			res.EndEdit();
@@ -67,9 +68,10 @@ namespace WPFAN_Access
 		private void miDelete_Click(object sender, RoutedEventArgs e)
 		{
 			var res = dsStudents.dtAssignments.FindByStudent("Jane Doe");
+			// Nem hívunk AcceptChanges-t: a törölt sornak Deleted állapotban kell
+			// maradnia, különben a mentés (UpdateAll) nem törli az adatbázisból.
 			if (res != null)
 				res.Delete();
-			res.AcceptChanges();
 		}
 	}
 }
