@@ -1,59 +1,59 @@
-﻿namespace WPFAN_Access
+﻿namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 }

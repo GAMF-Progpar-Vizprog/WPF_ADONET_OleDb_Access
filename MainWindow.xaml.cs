@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
-using WPFAN_Access.dsStudentsTableAdapters;
-namespace WPFAN_Access
+using WPF_ADONET_OleDb_Access.dsStudentsTableAdapters;
+namespace WPF_ADONET_OleDb_Access
 {
 	
 	public partial class MainWindow : Window

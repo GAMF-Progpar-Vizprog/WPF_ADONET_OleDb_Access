@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace WPFAN_Access {
+namespace WPF_ADONET_OleDb_Access {
     
     
     /// <summary>
@@ -1105,7 +1105,7 @@ namespace WPFAN_Access {
         }
     }
 }
-namespace WPFAN_Access.dsStudentsTableAdapters {
+namespace WPF_ADONET_OleDb_Access.dsStudentsTableAdapters {
     
     
     /// <summary>

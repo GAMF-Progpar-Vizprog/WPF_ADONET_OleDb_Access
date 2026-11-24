@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPFAN_Access
+namespace WPF_ADONET_OleDb_Access
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
